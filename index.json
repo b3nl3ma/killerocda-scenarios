@@ -1,0 +1,17 @@
+{
+  "title": "Ghost in the Server: Forensic Recovery",
+  "description": "Step into the shoes of a SysAdmin and recover a compromised server.",
+  "type": "terminal",
+  "details": {
+    "steps": [
+      { "title": "The Hidden Payload", "text": "step1.md" },
+      { "title": "The Intrusion Log", "text": "step2.md" },
+      { "title": "The Broken Script", "text": "step3.md" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
